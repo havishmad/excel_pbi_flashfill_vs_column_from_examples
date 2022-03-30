@@ -1,4 +1,4 @@
 # excel_pbi_flashfill_vs_column_from_examples
 
 YouTube:
-https://github.com/havishmad/excel_pbi_flashfill_vs_column_from_examples
+https://youtu.be/fLmkMLzi88k
